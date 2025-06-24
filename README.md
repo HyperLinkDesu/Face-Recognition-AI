@@ -17,7 +17,9 @@ Contributor Contact:
     personal email: samuelpark1111@gmail.com
 
 
--
+- Seungmin Lee:
+
+    personal email: yeesmn@gmail.com
 
 
 -
