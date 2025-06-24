@@ -11,7 +11,10 @@ Contributor Contact:
 - Chanwoo(Matthew) Jeon
 
     personal email: jeonchanwoo05@gmail.com
--
+
+- Junyoung(Samuel) Park
+
+    personal email: samuelpark1111@gmail.com
 
 
 -
