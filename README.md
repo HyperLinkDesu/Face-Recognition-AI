@@ -22,4 +22,6 @@ Contributor Contact:
     personal email: yeesmn@gmail.com
 
 
--
+- Jun Koo:
+
+    personal email: junmo.koo0@gmail.com
