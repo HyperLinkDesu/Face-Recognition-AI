@@ -8,9 +8,9 @@ Contributor Contact:
     
     personal email: parkw0928@gmail.com
 
--
+- Chanwoo(Matthew) Jeon
 
-
+    personal email: jeonchanwoo05@gmail.com
 -
 
 
